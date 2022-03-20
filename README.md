@@ -5,6 +5,10 @@ This is a work in progress.
 
 **How to Use**
 
+https://user-images.githubusercontent.com/101951803/159144087-0d1d83fd-052c-460b-a05d-a532433a29ee.mp4
+
+
+
 Note that pointing to a hardcoded folder is (obviously) not the ideal method but what currently works in testing.
 - Put the script in the ~/Pictures/ folder
 - Extract the Split ZIP of Wallpapers to ~/Pictures/at4w
