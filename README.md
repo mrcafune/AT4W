@@ -1,5 +1,4 @@
-# AT4W
-**Adventure Time 4 Wallpaper**
+# AT4W (Adventure Time 4 Wallpaper)
 
 Simple Python Script to change the Gnome Desktop Background to a random Adventure Time Title slide.
 This is a work in progress.
