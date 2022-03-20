@@ -5,8 +5,10 @@ Simple Python Script to change the Gnome Desktop Background to a random Adventur
 This is a work in progress.
 
 **How to Use**
+
 Note that pointing to a hardcoded folder is (obviously) not the ideal method but what currently works in testing.
-- Put the script & folder in the ~/Pictures/ folder
+- Put the script in the ~/Pictures/ folder
+- Extract the Split ZIP of Wallpapers to ~/Pictures/at4w
 - Run the script using python3
 
 **Upcoming Changes**
